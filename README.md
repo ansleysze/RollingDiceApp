@@ -1,4 +1,4 @@
-# dice_app
+# Rolling Dice App
 
 This is a simple Flutter app that allows users to roll a die by clicking a button. It's a fun way to learn Flutter and Dart foundations, created as part of a Udemy tutorial on Flutter development that I am currently working on finishing
 
