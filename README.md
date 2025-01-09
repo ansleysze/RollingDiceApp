@@ -11,5 +11,7 @@ This project taught me the basics of:
 
 Setting up a Flutter project.
 Using widgets like Scaffold, Row, Column, and ElevatedButton.
+
 Generating random numbers in Flutter using specific libraries.
+
 Working with assets and updating the UI dynamically.
